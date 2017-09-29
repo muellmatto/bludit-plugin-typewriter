@@ -1,0 +1,9 @@
+{
+	"plugin-data":
+	{
+		"name": "Typewriter",
+		"description": "Alle Elemente der Klasse 'typewriter' werden schrittweise ausgegeben"
+	},
+    "timeout-text": "Durchschnittliche Zeit zwischen den Anschlägen in ms",
+    "spread-text": "relative erlaubte Abweichung der Zeiten oben [0..1]"
+}

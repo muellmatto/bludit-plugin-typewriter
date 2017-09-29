@@ -1,0 +1,9 @@
+{
+	"plugin-data":
+	{
+		"name": "Typewriter",
+		"description": "Every element with classname 'typewriter' are printed stepwise"
+	},
+    "timeout-text": "Average time between strokes in ms",
+    "spread-text": "relative variation per stroke [0..1]"
+}
